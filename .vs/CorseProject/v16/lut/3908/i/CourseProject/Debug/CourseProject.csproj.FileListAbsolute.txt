@@ -1,0 +1,13 @@
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\b\CorseProject\bin\Debug\CorseProject.exe.config
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\b\CorseProject\bin\Debug\CorseProject.exe
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.ChangeDistanceMatrix.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.MainBody.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.MakeMatrix1Part.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.MakeMatrix2Part.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.Properties.Resources.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.ShowDistanceMatrix.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.ShowFeromoneMatrix.resources
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Dmitriy Makarov\source\repos\CorseProject\.vs\CorseProject\v16\lut\0\i\CourseProject\Debug\CorseProject.exe
